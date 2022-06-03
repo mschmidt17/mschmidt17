@@ -25,7 +25,7 @@
 <h4>Main Programming Languages/Libraries: </h4>
 
 <p align="left">
-  <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt=nodejs width="100" height="70"/>
+  <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt=nodejs width="100"/>
 </p>
 
 
