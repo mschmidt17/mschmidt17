@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Matias Schmidt 💻</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/matias-schmidt-48486723a/">
+   <a href="https://www.linkedin.com/in/matias-schmidt1/">
     <img src="https://img.shields.io/badge/linkedin-matiasschmidt-blue">
   </a>
   
