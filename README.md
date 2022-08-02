@@ -98,8 +98,8 @@ La aplicación te permite buscar por nombre, filtrar por raza y temperamento. A 
 :zap:https://dogs-app-five-beryl.vercel.app/
 <br></br>
 
-<img align="left" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.1.png' />
-<img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.2.png' />
-<img align="left" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.3.png' />
+<img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.1.png' /><br>
+<img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.2.png' /><br>
+<img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.3.png' />
 <br></br>
 	
