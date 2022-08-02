@@ -52,7 +52,7 @@ Para realizar el proyecto utilizamos el Flujo de Git y aplicamos Metodologías �
 <br></br>
 
 🚀 Tegnologias utilizadas: 
-- React (Hooks).
+- React.
 - CSS Modules.
 - Redux.
 - Node Js.
