@@ -15,9 +15,9 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=MatiasSchmidt alt=sachinverma53121/></p>
 
 
-- ⚡ Graduado de **SoyHenry's bootcamp **  
+- ⚡ Graduado de **SoyHenry's bootcamp**  
 - 🌱 Estoy estudiando **JavaScript and React** 
-- ⚡ Me gusta el **Futbol ⚽ ** 
+- ⚡ Me gusta el **Futbol ⚽** 
 - 📫 Contactame: **matias.schmidt@outlook.es**
 
 
