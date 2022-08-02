@@ -99,7 +99,9 @@ La aplicación te permite buscar por nombre, filtrar por raza y temperamento. A 
 <br></br>
 
 <img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.1.png' /><br>
+<br></br>
 <img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.2.png' /><br>
+<br></br>
 <img align="center" width= "405px" src='https://github.com/mschmidt17/DOGS/blob/main/PI.3.png' />
 <br></br>
 	
