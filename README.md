@@ -52,15 +52,15 @@ Para realizar el proyecto utilizamos el Flujo de Git y aplicamos Metodologías �
 <br></br>
 
 🚀 Tegnologias utilizadas: 
--React (Hooks).
--CSS Modules.
--Redux.
--Node Js.
--Express.
--Mongo DB.
--Mongoose.
--Solidity (Para la creación de contratos inteligentes).
--WEB3.
+- React (Hooks).
+- CSS Modules.
+- Redux.
+- Node Js.
+- Express.
+- Mongo DB.
+- Mongoose.
+- Solidity (Para la creación de contratos inteligentes).
+- WEB3.
 <br></br>
 
 :zap: https://wallabyapp.vercel.app/
@@ -75,5 +75,32 @@ Para realizar el proyecto utilizamos el Flujo de Git y aplicamos Metodologías �
 <img align="center"width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Detalle.png' />
 <img align="left" width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Favoritos.png' />
 <img align="center"width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Coleeciones.png' />
+<br></br>
+
+
+
+### :round_pushpin: ***DOGS APP***
+Proyecto individual para el bootcamp de Soy Henry. <br>
+Se trata de una aplicación que consume datos de una API de perros y de una base de datos. 
+Cuenta con una página inicial desde la cual se accede a la página principal, donde se muestran todos los perros. Accediendo a cada perro, podemos ver más información.
+La aplicación te permite buscar por nombre, filtrar por raza y temperamento. A demás se puede ordenar por peso y alfabéticamente. Tiene un paginado y también da la posibilidad al usuario de crear un nuevo perro a través de un formulario controlado.
+<br></br>
+🚀 Tecnologias utilizadas: 
+- React 
+- Redux
+- NodeJS 
+- Express 
+- Sequelize 
+- PostgreSQL 
+- CSS 
+
+<br></br>
+:zap:https://dogs-app-five-beryl.vercel.app/
+<br></br>
+
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPage.png' />
+<img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/homePage.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameDetail.png' />
+<img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/gameCreate.png' />
 <br></br>
 	
