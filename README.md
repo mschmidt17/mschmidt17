@@ -41,4 +41,40 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  
+  
+  
+  ## :pushpin: Ultimos Proyectos:
+### :round_pushpin: ***WALLAby.*** 
+Proyecto final para el bootcamp de Soy Henry.<br>
+Se trata de un Marketplace de NFT en donde podés comprar, vender y crear tus propios NFTs. Te vas a poder conectar a una red blockchain de prueba y operar en la app.
+Tiene conexión a la Web3 mediante la wallet de Metamask, si no tenés criptomonedas en la Metamask, a traves de nuestro método de recarga vas a poder cargarla con cualquier tarjeta de crédito. <br>
+Para realizar el proyecto utilizamos el Flujo de Git y aplicamos Metodologías Ágiles(SCRUM).
+<br></br>
+
+🚀 Tegnologias utilizadas: 
+-React (Hooks).
+-CSS Modules.
+-Redux.
+-Node Js.
+-Express.
+-Mongo DB.
+-Mongoose.
+-Solidity (Para la creación de contratos inteligentes).
+-WEB3.
+<br></br>
+
+:zap: https://wallabyapp.vercel.app/
+
+<br></br>
+
+
+
+<img align="left"  width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
+<img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
+<img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
+<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
+<img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
+<br></br>
 	
