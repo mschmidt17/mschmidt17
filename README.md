@@ -70,11 +70,11 @@ Para realizar el proyecto utilizamos el Flujo de Git y aplicamos Metodolog√≠as √
 
 
 
-<img align="left"  width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingPageT.png' />
-<img align="center" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingProjects.png' />
-<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/projectDetail.png' />
-<img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/landingCommunity.png' />
-<img align="left" width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/payment.png' />
-<img align="center"width= "405px" src='https://github.com/mschaberger/mschaberger/blob/main/assets/img/Login.png' />
+<img align="left"  width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Landing.png' />
+<img align="center" width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Home.png' />
+<img align="left" width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Login.png' />
+<img align="center"width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Detalle.png' />
+<img align="left" width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Favoritos.png' />
+<img align="center"width= "405px" src='https://github.com/mschmidt17/mschmidt17/blob/main/Coleeciones.png' />
 <br></br>
 	
