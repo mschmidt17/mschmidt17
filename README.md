@@ -18,7 +18,7 @@
 - ⚡ Graduado de **SoyHenry's bootcamp**  
 - 🌱 Estoy estudiando **JavaScript y React** 
 - ⚡ Me gusta el **Futbol ⚽** 
-- 📫 Contactame: **matias.schmidt@outlook.es**
+- 📫 Contactame: **schmidtmatias163@gmail.com**
 
 
 <h4>Mi tecnologia principal es: </h4>
