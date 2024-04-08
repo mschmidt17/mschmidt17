@@ -42,5 +42,3 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   
   
-  
-  ## :pushpin: Podes ver más en mi portfolio! https://matias-schmidt.vercel.app/
