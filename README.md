@@ -9,15 +9,16 @@
   </a>
 </p>
 
-<h3 align="center">Desarrollador web full stack de Argentina</h3>
+<h3 align="center">Frontend developer</h3>
 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=MatiasSchmidt alt=sachinverma53121/></p>
 
 
-- ⚡ Graduado de **SoyHenry's bootcamp**  
-- 🌱 Estoy estudiando **JavaScript y React** 
-- ⚡ Me gusta el **Futbol ⚽** 
+- 🌱 Frontend developer trabajando con **Typescript, Javascript y React**  
+- 🎓 Diplomatura Universitaria en **Desarrollo Web Full Stack**  
+- 📚 Actualmente cursando **Máster en Big Data Deportivo**  
+- ⚡ Graduado de **SoyHenry's Bootcamp**  
 - 📫 Contactame: **schmidtmatias163@gmail.com**
 
 
