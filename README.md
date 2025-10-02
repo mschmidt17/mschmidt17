@@ -3,10 +3,6 @@
    <a href="https://www.linkedin.com/in/matias-schmidt1/">
     <img src="https://img.shields.io/badge/linkedin-matiasschmidt-blue">
   </a>
-  
-  <a href="https://www.instagram.com/mati_schmidt1/">
-    <img src="https://img.shields.io/badge/instagram-matias_schmidt1_-red">
-  </a>
 </p>
 
 <h3 align="center">Frontend developer</h3>
